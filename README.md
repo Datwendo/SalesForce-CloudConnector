@@ -1,4 +1,4 @@
-SalesForces-Connector
+SalesForce-Connector
 =====================
 
 Apex Class to call Datwendo Cloud Connector.
